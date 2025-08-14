@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://adobe.sharepoint.com/:f:/r/sites/sivademo/Shared%20Documents/sivademo?csf=1&web=1&e=uiyO2N
+    type: markup
+
+folders:
+  /products/: /products/default
